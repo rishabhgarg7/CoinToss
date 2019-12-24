@@ -1,2 +1,0 @@
-# CoinToss
-Created with CodeSandbox
