@@ -6,7 +6,7 @@ import Stats from "./Stats";
 class TossCoin extends Component {
   constructor(props) {
     super(props);
-    this.state = { ntotal: 0, nheads: 0, outcome: 0 };
+    this.state = { ntotal: 0, nheads: 0, outcome: null };
     this.handleToss = this.handleToss.bind(this);
   }
 
